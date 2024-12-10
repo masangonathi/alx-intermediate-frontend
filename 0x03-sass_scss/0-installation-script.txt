@@ -1,4 +1,0 @@
-# Install of SASS
-
-1. Took the link provided on the task to Install node version 20.16 ***$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash*** 
-2. Created a installation document to write down the steps in installing SASS 
